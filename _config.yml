@@ -1,0 +1,14 @@
+layout_spectrum: 0.1380372301209718
+typography_spectrum: 0.9057531997095793
+color:
+  brandStrength: 0.6466414749156684
+  lightness: 0.11363197583705187
+  saturation: 0.6914041058626026
+  rhythmicContrast: 0.8108328066300601
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: marcnavarro.com
